@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(c_plus_base_pro)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(c_plus_base_pro main.cpp 01_hello_world.cpp 02_enhance_c.cpp test.c test.cpp 03_const.cpp 04_&_test.cpp 04_&_test_2.cpp Student.cpp 05_inline_test.cpp 06_func.cpp 07_extern_c.cpp test.h 08_Encapsulation.cpp 09_class.cpp 10_new.cpp 11_static.cpp 12_sington.cpp 13_this.cpp MyArray.h MyArray.cpp MyArray_test.cpp 14_operator_1.cpp 14_operator_2.cpp 14_operator_0.cpp Mystring.h Mystring.cpp Mystring_test.cpp 15_extend_1.cpp 15_extend_2.cpp 15_extend_3.cpp 15_extend_4.cpp 16_polymorphism_1.cpp 16_polymorphism_2.cpp 16_polymorphism_3.cpp 17_func_templete_1.cpp 17_func_templete_2.cpp 17_func_templete_3.cpp 18_class_templete_1.cpp 18_class_templete_2.cpp People.cpp People.h 19_people_class_test.cpp 18_class_templete_3.cpp MyArrayClass.cpp MyArrayClass_test.cpp 20_type_cast_1.cpp 21_exception_1.cpp 21_exception_2.cpp 22_cin_1.cpp 23_cout.cpp 24_file.cpp 24_file_2.cpp 15_extend_5.cpp 18_class_templete_4.cpp 30_mysql_1.cpp)
